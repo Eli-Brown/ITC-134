@@ -1,0 +1,11 @@
+## Altered BashRC
+Create custom
+test input on command line
+ 
+have two people test script 
+test two classmates 
+write script to pull down to set basher default (raw view in github and wget 
+	copy url 
+	wget URL
+	cat filename >> .bashrc
+grant access to two people to check alter upload and merge
