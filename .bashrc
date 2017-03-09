@@ -4,6 +4,8 @@ export PS1='\[\e[1;32m\]\u@\h:\w${text}$\[\e[m\] '
 
 # Reviewed and approved by Dana Lockwood
 
+#I like what you did here, worked for me, Dan Micheli
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
